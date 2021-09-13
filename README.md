@@ -1,6 +1,7 @@
 # netcat
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1585c7c52410451bb07ba828e80184b6)](https://app.codacy.com/gh/Sanchez-Industries/netcat?utm_source=github.com&utm_medium=referral&utm_content=Sanchez-Industries/netcat&utm_campaign=Badge_Grade_Settings)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1585c7c52410451bb07ba828e80184b6)](https://app.codacy.com/gh/Sanchez-Industries/netcat?utm_source=github.com&utm_medium=referral&utm_content=Sanchez-Industries/netcat&utm_campaign=Badge_Grade_Settings)
 [![NPM Version](https://img.shields.io/npm/v/netcat.svg)](https://www.npmjs.com/package/netcat)
 ![node](https://img.shields.io/node/v/netcat.svg)
 [![Dependency Status](https://david-dm.org/roccomuso/netcat.png)](https://david-dm.org/roccomuso/netcat)
